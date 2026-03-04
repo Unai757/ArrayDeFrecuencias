@@ -34,7 +34,7 @@ public class Main {
 
         }
         System.out.println();
-        System.out.println("El numero maximo de frecuencias es: " + numeroConFrecuencia +" apareciendo estas veces: "+numeroMaximo);
+        System.out.println("El numero que mas aparece es: " + numeroConFrecuencia +" apareciendo estas veces: "+numeroMaximo);
     }
 }
 
